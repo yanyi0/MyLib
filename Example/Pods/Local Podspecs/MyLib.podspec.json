@@ -1,0 +1,22 @@
+{
+  "name": "MyLib",
+  "version": "0.1.0",
+  "summary": "A short description of MyLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/785144130@qq.com/MyLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "785144130@qq.com": "785144130@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/785144130@qq.com/MyLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyLib/Classes/**/*"
+}
